@@ -3,14 +3,14 @@
 
 export const siteConfig = {
   // Algemene website informatie
-  siteName: "TMF-Coaching",
+  siteName: "tmf-Coaching",
   tagline: "Wetenschappelijk onderbouwde hypnotherapie",
   description: "Professionele hypnotherapie voor angst, fobieën, stoppen met roken, eetproblemen en trauma. Ervaren OMNI hypnotherapeut met bewezen resultaten in Breda en omgeving.",
 
   // Contact informatie
   contact: {
-    phone: "076-369-0248",
-    phoneFormatted: "+31-76-369-0248",
+    phone: "076-3690248",
+    phoneFormatted: "+31(0)76-3690248",
     email: "michel@tmf-coaching.nl",
     whatsapp: "31763690248",
     location: "Breda en omgeving",
@@ -28,7 +28,7 @@ export const therapistInfo = {
   title: "OMNI Hypnotherapeut",
   experience: "500+",
   experienceText: "Succesvol behandelde klanten",
-  bio: "Gecertificeerd OMNI Hypnotherapeut met jarenlange ervaring in het helpen van mensen bij het overwinnen van angsten, verslavingen en trauma's.",
+  bio: "Gecertificeerde OMNI Hypnotherapeut met jarenlange ervaring in het helpen van mensen bij het overwinnen van angsten, verslavingen en trauma's.",
   quote: "Ik geloof in een veilige, respectvolle en resultaatgerichte aanpak. Mijn achtergrond in coaching en hypnotherapie stelt mij in staat om jou te helpen blijvende veranderingen te realiseren.",
 
   certifications: [
@@ -139,15 +139,15 @@ export const services = [
   },
   {
     id: "trauma",
-    category: "Trauma & PTSD",
+    category: "Trauma & PTSS",
     title: "Trauma & Stress",
-    description: "Burnout, PTSD, emotionele blokkades of onverwerkte ervaringen",
+    description: "Burnout, PTSS, emotionele blokkades of onverwerkte ervaringen",
     color: "purple",
     icon: "Shield",
-    url: "/trauma-ptsd",
+    url: "/trauma-PTSS",
     treatments: [
       {
-        name: "PTSD & Trauma",
+        name: "PTSS & Trauma",
         description: "Veilige verwerking van traumatische ervaringen met regressietherapie.",
         sessions: "6-15 sessies",
         icon: "Shield",
@@ -252,7 +252,7 @@ export const whatsappConfig = {
       "• Angst & paniekaanvallen",
       "• Stoppen met roken",
       "• Fobieën & sociale angst",
-      "• Trauma & PTSD",
+      "• Trauma & PTSS",
       "• Eetproblemen"
     ],
     cta: "💬 Stuur me een WhatsApp bericht voor een gratis intake van 30 minuten!",
